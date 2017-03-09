@@ -1,0 +1,6 @@
+C:\Users\JARVIS\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\JARVIS\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\JARVIS\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\JARVIS\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+C:\Users\JARVIS\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+C:\Users\JARVIS\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb

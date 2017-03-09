@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\users\jarvis\documents\visual studio 2015\projects\consoleapplication10\consoleapplication10\stdafx.cpp(9): error C2857: '#include' statement specified with the /Ycstdafx.h command-line option was not found in the source file
